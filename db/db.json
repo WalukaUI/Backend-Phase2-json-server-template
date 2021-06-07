@@ -1,52 +1,716 @@
 {
-  "toys": [
+  "products": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    },
-    {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
-    },
-    {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
-    },
-    {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
-    }
+      "product_id": "4430",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/product-videos/640x480/4430-03.jpg",
+      "image_is_video": "1",
+      "product_name": "High Current Inductive Charge Kit - 5V @ 1.3A max",
+      "product_model": "",
+      "product_mpn": "ADA4430",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "39.95",
+      "product_shipping_weight": "34.5",
+      "product_url": "https://www.adafruit.com/product/4430",
+      "product_stock": "in stock",
+      "products_hts": "8504.50.4000",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "39.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "35.96",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "31.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "2116",
+      "quantity":1,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2116-02.jpg",
+      "image_is_video": "0",
+      "product_name": "Universal Qi Wireless Charging Module - 20mm Forward MicroUSB",
+      "product_model": "",
+      "product_mpn": "ADA2116",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "24.95",
+      "product_shipping_weight": "6.9",
+      "product_url": "https://www.adafruit.com/product/2116",
+      "product_stock": "-3",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "1",
+      "discontinue_status": "Discontinued",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "24.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "22.46",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "19.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "2117",
+      "quantity":101,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2117-07.jpg",
+      "image_is_video": "0",
+      "product_name": "Universal Qi Wireless Charging Module - 60mm Forward MicroUSB",
+      "product_model": "",
+      "product_mpn": "ADA2117",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "24.95",
+      "product_shipping_weight": "6.8",
+      "product_url": "https://www.adafruit.com/product/2117",
+      "product_stock": "-3",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "1",
+      "discontinue_status": "Discontinued",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "24.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "22.46",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "19.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "1926",
+      "quantity":11,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/1926-02.jpg",
+      "image_is_video": "0",
+      "product_name": "Qi Wireless Charger Sleeve - iPhone 5 Lightning Connector",
+      "product_model": "",
+      "product_mpn": "ADA1926",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "29.95",
+      "product_shipping_weight": "97.7",
+      "product_url": "https://www.adafruit.com/product/1926",
+      "product_stock": "-3",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "1",
+      "discontinue_status": "Discontinued",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "29.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "26.96",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "23.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "2115",
+      "quantity":9,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2115-08.jpg",
+      "image_is_video": "0",
+      "product_name": "Universal Qi Wireless Charging Module - 40mm Reverse MicroUSB",
+      "product_model": "",
+      "product_mpn": "ADA2115",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "24.95",
+      "product_shipping_weight": "26.9",
+      "product_url": "https://www.adafruit.com/product/2115",
+      "product_stock": "-3",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "1",
+      "discontinue_status": "Discontinued",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "24.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "22.46",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "19.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "2114",
+      "quantity":5,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2114-08.jpg",
+      "image_is_video": "0",
+      "product_name": "Universal Qi Wireless Charging Module - 20mm Reverse MicroUSB",
+      "product_model": "",
+      "product_mpn": "ADA2114",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "24.95",
+      "product_shipping_weight": "6.9",
+      "product_url": "https://www.adafruit.com/product/2114",
+      "product_stock": "2",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "24.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "22.46",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "19.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "1459",
+      "quantity":5,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/1459-02.jpg",
+      "image_is_video": "0",
+      "product_name": "Inductive Charging Set - 3.3V @ 500mA max",
+      "product_model": "",
+      "product_mpn": "ADA1459",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "9.95",
+      "product_shipping_weight": "14.7",
+      "product_url": "https://www.adafruit.com/product/1459",
+      "product_stock": "in stock",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "9.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "8.96",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "7.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "1901",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/1901-05.jpg",
+      "image_is_video": "0",
+      "product_name": "Universal Qi Wireless Receiver Module",
+      "product_model": "",
+      "product_mpn": "ADA1901",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "14.95",
+      "product_shipping_weight": "8.0",
+      "product_url": "https://www.adafruit.com/product/1901",
+      "product_stock": "in stock",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "14.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "13.46",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "11.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "2162",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2162-00.jpg",
+      "image_is_video": "0",
+      "product_name": "Universal Qi Wireless Charging Transmitter",
+      "product_model": "",
+      "product_mpn": "ADA2162",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "26.95",
+      "product_shipping_weight": "49.8",
+      "product_url": "https://www.adafruit.com/product/2162",
+      "product_stock": "in stock",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "26.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "24.26",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "21.56",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "1407",
+      "quantity":12,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/1407-02.jpg",
+      "image_is_video": "0",
+      "product_name": "Inductive Charging Set - 5V @ 500mA max",
+      "product_model": "",
+      "product_mpn": "ADA1407",
+      "product_master_category": "331",
+      "product_manufacturer": null,
+      "product_price": "9.95",
+      "product_shipping_weight": "14.7",
+      "product_url": "https://www.adafruit.com/product/1407",
+      "product_stock": "in stock",
+      "products_hts": "8504.31.2000",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "9.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "8.96",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "7.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "2208",
+      "quantity":19,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2208-01.jpg",
+      "image_is_video": "0",
+      "product_name": "1,000 Incredible Costume & Cosplay Ideas",
+      "product_model": "",
+      "product_mpn": "ADA2208",
+      "product_master_category": "332",
+      "product_manufacturer": null,
+      "product_price": "19.95",
+      "product_shipping_weight": "997.9",
+      "product_url": "https://www.adafruit.com/product/2208",
+      "product_stock": "-3",
+      "products_hts": "4901.99.0050",
+      "products_coo": "US",
+      "products_discontinued": "1",
+      "discontinue_status": "Discontinued",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": []
+      },
+      {
+      "product_id": "2224",
+      "quantity":1,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/2224-08.jpg",
+      "image_is_video": "0",
+      "product_name": "Cosplay World by Brian Ashcraft and Luke Plunkett",
+      "product_model": "",
+      "product_mpn": "ADA2224",
+      "product_master_category": "332",
+      "product_manufacturer": null,
+      "product_price": "29.95",
+      "product_shipping_weight": "907.2",
+      "product_url": "https://www.adafruit.com/product/2224",
+      "product_stock": "1",
+      "products_hts": "4901.99.0050",
+      "products_coo": "US",
+      "products_discontinued": "0",
+      "discontinue_status": "Pending",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": []
+      },
+      {
+      "product_id": "4333",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/4333-11.jpg",
+      "image_is_video": "0",
+      "product_name": "Circuit Playground Bluefruit - Bluetooth Low Energy",
+      "product_model": "",
+      "product_mpn": "ADA4333",
+      "product_master_category": "333",
+      "product_manufacturer": "Adafruit",
+      "product_price": "24.95",
+      "product_shipping_weight": "15.2",
+      "product_url": "https://www.adafruit.com/product/4333",
+      "product_stock": "in stock",
+      "products_hts": "8542.39.0001",
+      "products_coo": "US",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "1",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "24.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "22.46",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "19.96",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "4504",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/4504-00.jpg",
+      "image_is_video": "0",
+      "product_name": "Adafruit Circuit Playground Bluefruit + TFT Gizmo Project Pack",
+      "product_model": "",
+      "product_mpn": "ADA4504",
+      "product_master_category": "333",
+      "product_manufacturer": "Adafruit",
+      "product_price": "64.95",
+      "product_shipping_weight": "231.5",
+      "product_url": "https://www.adafruit.com/product/4504",
+      "product_stock": "37",
+      "products_hts": "8542.90.0000",
+      "products_coo": "US",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "0",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "64.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "58.46",
+      "discounted_percent": "10",
+      "show_qty": "1010-99",
+      "min_qty": 10
+      }
+      ]
+      },
+      {
+      "product_id": "3118",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/3118-04.jpg",
+      "image_is_video": "0",
+      "product_name": "HDMI Plug to Terminal Block Breakout",
+      "product_model": "",
+      "product_mpn": "ADA3118",
+      "product_master_category": "334",
+      "product_manufacturer": null,
+      "product_price": "7.50",
+      "product_shipping_weight": "18.4",
+      "product_url": "https://www.adafruit.com/product/3118",
+      "product_stock": "in stock",
+      "products_hts": "8536.69.4040",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "1",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "7.50",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "6.75",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "6.00",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "3120",
+      "quantity":11,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/3120-00.jpg",
+      "image_is_video": "0",
+      "product_name": "Panel Mount HDMI Socket to Terminal Block Breakout",
+      "product_model": "",
+      "product_mpn": "ADA3120",
+      "product_master_category": "334",
+      "product_manufacturer": null,
+      "product_price": "5.95",
+      "product_shipping_weight": "21.1",
+      "product_url": "https://www.adafruit.com/product/3120",
+      "product_stock": "in stock",
+      "products_hts": "8536.69.4040",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "2",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "5.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "5.36",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "4.76",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "3122",
+      "quantity":10,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/3122-04.jpg",
+      "image_is_video": "0",
+      "product_name": "DE-9 (DB-9) Female Socket Connector to Terminal Block Breakout",
+      "product_model": "",
+      "product_mpn": "ADA3122",
+      "product_master_category": "334",
+      "product_manufacturer": null,
+      "product_price": "2.95",
+      "product_shipping_weight": "27.1",
+      "product_url": "https://www.adafruit.com/product/3122",
+      "product_stock": "in stock",
+      "products_hts": "8536.69.4040",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "1",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "2.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "2.66",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "2.36",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      },
+      {
+      "product_id": "3123",
+      "quantity":150,
+      "product_image": "https://cdn-shop.adafruit.com/640x480/3123-04.jpg",
+      "image_is_video": "0",
+      "product_name": "DE-9 (DB-9) Male Plug to Terminal Block Breakout",
+      "product_model": "",
+      "product_mpn": "ADA3123",
+      "product_master_category": "334",
+      "product_manufacturer": null,
+      "product_price": "2.95",
+      "product_shipping_weight": "27.1",
+      "product_url": "https://www.adafruit.com/product/3123",
+      "product_stock": "in stock",
+      "products_hts": "8536.69.4040",
+      "products_coo": "CN",
+      "products_discontinued": "0",
+      "discontinue_status": "None",
+      "products_coming_soon": "0",
+      "products_rohs": "1",
+      "parent_pid": 0,
+      "discount_pricing": [
+      {
+      "discounted_price": "2.95",
+      "discounted_percent": 0,
+      "show_qty": "1-9",
+      "min_qty": 1
+      },
+      {
+      "discounted_price": "2.66",
+      "discounted_percent": "10",
+      "show_qty": "10-99",
+      "min_qty": 10
+      },
+      {
+      "discounted_price": "2.36",
+      "discounted_percent": "20",
+      "show_qty": "100+",
+      "min_qty": 100
+      }
+      ]
+      }
   ]
 }
