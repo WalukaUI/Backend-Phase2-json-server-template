@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "4430",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/product-videos/640x480/4430-03.jpg",
       "image_is_video": "1",
       "product_name": "High Current Inductive Charge Kit - 5V @ 1.3A max",
@@ -22,29 +22,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "39.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "35.96",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "31.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "39.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "35.96",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "31.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "2116",
-      "quantity":1,
+      "quantity": 1,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2116-02.jpg",
       "image_is_video": "0",
       "product_name": "Universal Qi Wireless Charging Module - 20mm Forward MicroUSB",
@@ -64,29 +65,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "24.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "22.46",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "19.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "24.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "22.46",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "19.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": false
+    },
+    {
       "id": "2117",
-      "quantity":101,
+      "quantity": 101,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2117-07.jpg",
       "image_is_video": "0",
       "product_name": "Universal Qi Wireless Charging Module - 60mm Forward MicroUSB",
@@ -106,29 +108,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "24.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "22.46",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "19.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "24.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "22.46",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "19.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": false
+    },
+    {
       "id": "1926",
-      "quantity":11,
+      "quantity": 11,
       "product_image": "https://cdn-shop.adafruit.com/640x480/1926-02.jpg",
       "image_is_video": "0",
       "product_name": "Qi Wireless Charger Sleeve - iPhone 5 Lightning Connector",
@@ -148,29 +151,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "29.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "26.96",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "23.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "29.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "26.96",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "23.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": false
+    },
+    {
       "id": "2115",
-      "quantity":9,
+      "quantity": 9,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2115-08.jpg",
       "image_is_video": "0",
       "product_name": "Universal Qi Wireless Charging Module - 40mm Reverse MicroUSB",
@@ -190,29 +194,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "24.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "22.46",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "19.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "24.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "22.46",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "19.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": false
+    },
+    {
       "id": "2114",
-      "quantity":5,
+      "quantity": 5,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2114-08.jpg",
       "image_is_video": "0",
       "product_name": "Universal Qi Wireless Charging Module - 20mm Reverse MicroUSB",
@@ -232,29 +237,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "24.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "22.46",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "19.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "24.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "22.46",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "19.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "1459",
-      "quantity":5,
+      "quantity": 5,
       "product_image": "https://cdn-shop.adafruit.com/640x480/1459-02.jpg",
       "image_is_video": "0",
       "product_name": "Inductive Charging Set - 3.3V @ 500mA max",
@@ -274,29 +280,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "9.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "8.96",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "7.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "9.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "8.96",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "7.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "1901",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/640x480/1901-05.jpg",
       "image_is_video": "0",
       "product_name": "Universal Qi Wireless Receiver Module",
@@ -316,29 +323,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "14.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "13.46",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "11.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "14.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "13.46",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "11.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "2162",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2162-00.jpg",
       "image_is_video": "0",
       "product_name": "Universal Qi Wireless Charging Transmitter",
@@ -358,29 +366,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "26.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "24.26",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "21.56",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "26.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "24.26",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "21.56",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "1407",
-      "quantity":12,
+      "quantity": 12,
       "product_image": "https://cdn-shop.adafruit.com/640x480/1407-02.jpg",
       "image_is_video": "0",
       "product_name": "Inductive Charging Set - 5V @ 500mA max",
@@ -400,29 +409,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "9.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "8.96",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "7.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "9.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "8.96",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "7.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "2208",
-      "quantity":19,
+      "quantity": 19,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2208-01.jpg",
       "image_is_video": "0",
       "product_name": "1,000 Incredible Costume & Cosplay Ideas",
@@ -441,11 +451,12 @@
       "products_coming_soon": "0",
       "products_rohs": "2",
       "parent_pid": 0,
-      "discount_pricing": []
-      },
-      {
+      "discount_pricing": [],
+      "isInMarket": false
+    },
+    {
       "id": "2224",
-      "quantity":1,
+      "quantity": 1,
       "product_image": "https://cdn-shop.adafruit.com/640x480/2224-08.jpg",
       "image_is_video": "0",
       "product_name": "Cosplay World by Brian Ashcraft and Luke Plunkett",
@@ -464,11 +475,12 @@
       "products_coming_soon": "0",
       "products_rohs": "2",
       "parent_pid": 0,
-      "discount_pricing": []
-      },
-      {
+      "discount_pricing": [],
+      "isInMarket": true
+    },
+    {
       "id": "4333",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/640x480/4333-11.jpg",
       "image_is_video": "0",
       "product_name": "Circuit Playground Bluefruit - Bluetooth Low Energy",
@@ -488,29 +500,30 @@
       "products_rohs": "1",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "24.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "22.46",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "19.96",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "24.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "22.46",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "19.96",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "4504",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/640x480/4504-00.jpg",
       "image_is_video": "0",
       "product_name": "Adafruit Circuit Playground Bluefruit + TFT Gizmo Project Pack",
@@ -530,23 +543,24 @@
       "products_rohs": "0",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "64.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "58.46",
-      "discounted_percent": "10",
-      "show_qty": "1010-99",
-      "min_qty": 10
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "64.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "58.46",
+          "discounted_percent": "10",
+          "show_qty": "1010-99",
+          "min_qty": 10
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "3118",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/640x480/3118-04.jpg",
       "image_is_video": "0",
       "product_name": "HDMI Plug to Terminal Block Breakout",
@@ -566,29 +580,30 @@
       "products_rohs": "1",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "7.50",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "6.75",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "6.00",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "7.50",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "6.75",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "6.00",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "3120",
-      "quantity":11,
+      "quantity": 11,
       "product_image": "https://cdn-shop.adafruit.com/640x480/3120-00.jpg",
       "image_is_video": "0",
       "product_name": "Panel Mount HDMI Socket to Terminal Block Breakout",
@@ -608,29 +623,30 @@
       "products_rohs": "2",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "5.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "5.36",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "4.76",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "5.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "5.36",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "4.76",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "3122",
-      "quantity":10,
+      "quantity": 10,
       "product_image": "https://cdn-shop.adafruit.com/640x480/3122-04.jpg",
       "image_is_video": "0",
       "product_name": "DE-9 (DB-9) Female Socket Connector to Terminal Block Breakout",
@@ -650,29 +666,30 @@
       "products_rohs": "1",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "2.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "2.66",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "2.36",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      },
-      {
+        {
+          "discounted_price": "2.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "2.66",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "2.36",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    },
+    {
       "id": "3123",
-      "quantity":150,
+      "quantity": 150,
       "product_image": "https://cdn-shop.adafruit.com/640x480/3123-04.jpg",
       "image_is_video": "0",
       "product_name": "DE-9 (DB-9) Male Plug to Terminal Block Breakout",
@@ -692,25 +709,26 @@
       "products_rohs": "1",
       "parent_pid": 0,
       "discount_pricing": [
-      {
-      "discounted_price": "2.95",
-      "discounted_percent": 0,
-      "show_qty": "1-9",
-      "min_qty": 1
-      },
-      {
-      "discounted_price": "2.66",
-      "discounted_percent": "10",
-      "show_qty": "10-99",
-      "min_qty": 10
-      },
-      {
-      "discounted_price": "2.36",
-      "discounted_percent": "20",
-      "show_qty": "100+",
-      "min_qty": 100
-      }
-      ]
-      }
+        {
+          "discounted_price": "2.95",
+          "discounted_percent": 0,
+          "show_qty": "1-9",
+          "min_qty": 1
+        },
+        {
+          "discounted_price": "2.66",
+          "discounted_percent": "10",
+          "show_qty": "10-99",
+          "min_qty": 10
+        },
+        {
+          "discounted_price": "2.36",
+          "discounted_percent": "20",
+          "show_qty": "100+",
+          "min_qty": 100
+        }
+      ],
+      "isInMarket": true
+    }
   ]
 }
